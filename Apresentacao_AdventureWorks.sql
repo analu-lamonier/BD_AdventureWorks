@@ -1,12 +1,12 @@
 /*=================================== UNIVERSIDADE FEDERAL DE UBERLÂNDIA ============================================= --
-											ENGENHARIA DE COMPUTAÇÃO
+					  ENGENHARIA DE COMPUTAÇÃO
 
 
 
 
- 												BANCO DE DADOS
+ 					       BANCO DE DADOS
 
-										   APRESENTAÇÃO PROJETO FINAL
+					 APRESENTAÇÃO PROJETO FINAL
 
 			
 			
